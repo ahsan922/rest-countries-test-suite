@@ -2,7 +2,7 @@
 
 
 
-A **production-grade test automation framework** demonstrating best practices for API testing, CI/CD integration, and quality assurance.Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A **production-grade test automation framework** demonstrating best practices for API testing, CI/CD integration, and quality assurance.
 
 
 
@@ -221,7 +221,7 @@ GitHub Actions automatically runs tests on:
 |----------|-------|----------|
 | **Integration** | 14 | All major endpoints |
 | **Functional** | 9 | Data consistency, business logic |
-| **Total** | **23** | **~80% of API surface** |
+| **Total** | **23** |
 
 ### Endpoints Tested
 ✅ GET /all - All countries  
@@ -370,6 +370,6 @@ mvn jacoco:report   # Should show ~80% coverage
 
 **Last Updated**: November 15, 2025  
 **Version**: 1.0.0  
-**Maintained By**: QA Automation Team
+**Maintained By**: M.Ahsan
 
 **Ready to get started?** Clone the repo and run `mvn verify`! 🚀
